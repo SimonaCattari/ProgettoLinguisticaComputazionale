@@ -1,0 +1,4 @@
+Programma 1 - Confrontate i due testi sulla base delle seguenti informazioni statistiche : 
+
+ PRIMO PUNTO --> Il numero di frasi e di token : 
+

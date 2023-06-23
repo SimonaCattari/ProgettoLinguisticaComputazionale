@@ -1,0 +1,429 @@
+Segue una lista delle Part of Speech più frequenti nel primo testo:
+POS NN 	con frequenza 750
+POS PRP 	con frequenza 539
+POS IN 	con frequenza 536
+POS DT 	con frequenza 497
+POS . 	con frequenza 487
+POS JJ 	con frequenza 471
+POS RB 	con frequenza 422
+POS , 	con frequenza 388
+POS NNP 	con frequenza 371
+POS NNS 	con frequenza 300
+Segue una lista delle Part of Speech più frequenti nel secondo testo:
+POS NN 	con frequenza 846
+POS IN 	con frequenza 583
+POS DT 	con frequenza 536
+POS JJ 	con frequenza 485
+POS PRP 	con frequenza 378
+POS NNS 	con frequenza 358
+POS VB 	con frequenza 344
+POS , 	con frequenza 342
+POS . 	con frequenza 305
+POS NNP 	con frequenza 300
+
+Segue una lista dei sostantivi più frequenti nel primo testo:
+Il sostantivo ’ 	con frequenza 35
+Il sostantivo s 	con frequenza 27
+Il sostantivo t 	con frequenza 27
+Il sostantivo people 	con frequenza 25
+Il sostantivo ” 	con frequenza 20
+Il sostantivo country 	con frequenza 17
+Il sostantivo election 	con frequenza 16
+Il sostantivo “ 	con frequenza 15
+Il sostantivo school 	con frequenza 14
+Il sostantivo Biden 	con frequenza 13
+Il sostantivo border 	con frequenza 13
+Il sostantivo Thank 	con frequenza 11
+Il sostantivo way 	con frequenza 11
+Il sostantivo % 	con frequenza 11
+Il sostantivo Democrats 	con frequenza 10
+Il sostantivo police 	con frequenza 10
+Il sostantivo time 	con frequenza 9
+Il sostantivo place 	con frequenza 9
+Il sostantivo things 	con frequenza 9
+Il sostantivo America 	con frequenza 9
+Segue una lista dei sostantivi più frequenti nel secondo testo:
+Il sostantivo ’ 	con frequenza 38
+Il sostantivo people 	con frequenza 28
+Il sostantivo Ukraine 	con frequenza 24
+Il sostantivo Russia 	con frequenza 22
+Il sostantivo United 	con frequenza 19
+Il sostantivo s 	con frequenza 18
+Il sostantivo States 	con frequenza 18
+Il sostantivo t 	con frequenza 16
+Il sostantivo world 	con frequenza 15
+Il sostantivo guns 	con frequenza 15
+Il sostantivo ghost 	con frequenza 15
+Il sostantivo today 	con frequenza 11
+Il sostantivo region 	con frequenza 11
+Il sostantivo aggression 	con frequenza 11
+Il sostantivo year 	con frequenza 10
+Il sostantivo gun 	con frequenza 10
+Il sostantivo weapons 	con frequenza 9
+Il sostantivo hemisphere 	con frequenza 8
+Il sostantivo Americas 	con frequenza 8
+Il sostantivo Putin 	con frequenza 8
+
+Segue una lista dei verbi più frequenti nel primo testo:
+Il verbo ’ 	con frequenza 96
+Il verbo have 	con frequenza 50
+Il verbo is 	con frequenza 50
+Il verbo are 	con frequenza 37
+Il verbo be 	con frequenza 36
+Il verbo s 	con frequenza 32
+Il verbo was 	con frequenza 27
+Il verbo do 	con frequenza 21
+Il verbo would 	con frequenza 19
+Il verbo going 	con frequenza 19
+Il verbo will 	con frequenza 18
+Il verbo want 	con frequenza 17
+Il verbo know 	con frequenza 16
+Il verbo said 	con frequenza 16
+Il verbo can 	con frequenza 13
+Il verbo has 	con frequenza 13
+Il verbo were 	con frequenza 12
+Il verbo don 	con frequenza 12
+Il verbo did 	con frequenza 12
+Il verbo see 	con frequenza 11
+Segue una lista dei verbi più frequenti nel secondo testo:
+Il verbo ’ 	con frequenza 117
+Il verbo is 	con frequenza 52
+Il verbo have 	con frequenza 42
+Il verbo are 	con frequenza 34
+Il verbo can 	con frequenza 31
+Il verbo be 	con frequenza 25
+Il verbo going 	con frequenza 25
+Il verbo will 	con frequenza 24
+Il verbo do 	con frequenza 19
+Il verbo s 	con frequenza 19
+Il verbo help 	con frequenza 19
+Il verbo make 	con frequenza 13
+Il verbo has 	con frequenza 12
+Il verbo continue 	con frequenza 12
+Il verbo know 	con frequenza 11
+Il verbo need 	con frequenza 10
+Il verbo would 	con frequenza 10
+Il verbo been 	con frequenza 9
+Il verbo let 	con frequenza 8
+Il verbo come 	con frequenza 7
+
+Segue una lista dei bigrammi <sostantivo, verbo> più frequenti nel primo testo:
+Il bigramma ('’', 's') 	con frequenza 16
+Il bigramma ('s', 'called') 	con frequenza 4
+Il bigramma ('t', 'have') 	con frequenza 4
+Il bigramma ('crime', 'is') 	con frequenza 2
+Il bigramma ('pure', 'hatred') 	con frequenza 2
+Il bigramma ('law', 'abiding') 	con frequenza 2
+Il bigramma ('Republicans', 'are') 	con frequenza 2
+Il bigramma ('school', 'should') 	con frequenza 2
+Il bigramma ('CPAC', 'is') 	con frequenza 2
+Il bigramma ('t', 'do') 	con frequenza 2
+Il bigramma ('Democrat', 'run') 	con frequenza 2
+Il bigramma ('t', 'go') 	con frequenza 2
+Il bigramma ('week', 'citizens') 	con frequenza 1
+Il bigramma ('nation', 'are') 	con frequenza 1
+Il bigramma ('lives', 'were') 	con frequenza 1
+Il bigramma ('words', 'can') 	con frequenza 1
+Il bigramma ('sun', 'had') 	con frequenza 1
+Il bigramma ('politicians', 'seeking') 	con frequenza 1
+Il bigramma ('Biden', 'blamed') 	con frequenza 1
+Il bigramma ('shootings', 'happen') 	con frequenza 1
+Segue una lista dei bigrammi <sostantivo, verbo> più frequenti nel secondo testo:
+Il bigramma ('’', 's') 	con frequenza 16
+Il bigramma ('States', 'is') 	con frequenza 4
+Il bigramma ('t', 'be') 	con frequenza 3
+Il bigramma ('Russia', 'is') 	con frequenza 3
+Il bigramma ('democracy', 'is') 	con frequenza 2
+Il bigramma ('people', 'are') 	con frequenza 2
+Il bigramma ('countries', 'have') 	con frequenza 2
+Il bigramma ('communities', 'are') 	con frequenza 2
+Il bigramma ('Partnership', 'will') 	con frequenza 2
+Il bigramma ('governments', 'deliver') 	con frequenza 2
+Il bigramma ('migration', 'is') 	con frequenza 2
+Il bigramma ('Russia', 'launched') 	con frequenza 2
+Il bigramma ('Democracy', 'is') 	con frequenza 1
+Il bigramma ('region', 'is') 	con frequenza 1
+Il bigramma ('democracies', 'deliver') 	con frequenza 1
+Il bigramma ('longer', 'is') 	con frequenza 1
+Il bigramma ('States', 'do') 	con frequenza 1
+Il bigramma ('question', 'is') 	con frequenza 1
+Il bigramma ('pandemic', 'hit') 	con frequenza 1
+Il bigramma ('%', 'reported') 	con frequenza 1
+
+Segue una lista dei bigrammi <aggettivo, sostantivo> più frequenti nel primo testo:
+Il bigramma ('’', 't') 	con frequenza 19
+Il bigramma ('’', 's') 	con frequenza 11
+Il bigramma ('radical', 'left') 	con frequenza 5
+Il bigramma ('big', 'tech') 	con frequenza 5
+Il bigramma ('bad', 'things') 	con frequenza 4
+Il bigramma ('fake', 'news') 	con frequenza 3
+Il bigramma ('free', 'speech') 	con frequenza 3
+Il bigramma ('single', 'American') 	con frequenza 2
+Il bigramma ('political', 'agenda') 	con frequenza 2
+Il bigramma ('mental', 'health') 	con frequenza 2
+Il bigramma ('inner', 'city') 	con frequenza 2
+Il bigramma ('free', 'zone') 	con frequenza 2
+Il bigramma ('cancel', 'culture') 	con frequenza 2
+Il bigramma ('same', 'time') 	con frequenza 2
+Il bigramma ('illegal', 'immigration') 	con frequenza 2
+Il bigramma ('other', 'countries') 	con frequenza 2
+Il bigramma ('smart', 'ones') 	con frequenza 2
+Il bigramma ('criminal', 'aliens') 	con frequenza 2
+Il bigramma ('American', 'history') 	con frequenza 2
+Il bigramma ('last', 'year') 	con frequenza 2
+Segue una lista dei bigrammi <aggettivo, sostantivo> più frequenti nel secondo testo:
+Il bigramma ('’', 't') 	con frequenza 9
+Il bigramma ('Ukrainian', 'people') 	con frequenza 4
+Il bigramma ('middle', 'class') 	con frequenza 3
+Il bigramma ('humanitarian', 'assistance') 	con frequenza 3
+Il bigramma ('fair', 'share') 	con frequenza 3
+Il bigramma ('Russian', 'aggression') 	con frequenza 3
+Il bigramma ('additional', 'funding') 	con frequenza 3
+Il bigramma ('southern', 'border') 	con frequenza 3
+Il bigramma ('last', 'year') 	con frequenza 3
+Il bigramma ('private', 'sector') 	con frequenza 2
+Il bigramma ('mutual', 'respect') 	con frequenza 2
+Il bigramma ('many', 'people') 	con frequenza 2
+Il bigramma ('little', 'bit') 	con frequenza 2
+Il bigramma ('sustainable', 'growth') 	con frequenza 2
+Il bigramma ('orderly', 'migration') 	con frequenza 2
+Il bigramma ('’', 's') 	con frequenza 2
+Il bigramma ('Russian', 'troops') 	con frequenza 2
+Il bigramma ('brutal', 'invasion') 	con frequenza 2
+Il bigramma ('Russian', 'forces') 	con frequenza 2
+Il bigramma ('supplemental', 'funding') 	con frequenza 2
+
+Segue una lista dei venti bigrammi con probabilità condizionata massima nel primo testo:
+Il bigramma ('Think', 'of') 	con probabilità 1.0
+Il bigramma ('able', 'to') 	con probabilità 1.0
+Il bigramma ('look', 'at') 	con probabilità 1.0
+Il bigramma ('United', 'States') 	con probabilità 1.0
+Il bigramma ('didn', '’') 	con probabilità 1.0
+Il bigramma ('told', 'you') 	con probabilità 1.0
+Il bigramma ('That', '’') 	con probabilità 1.0
+Il bigramma ('don', '’') 	con probabilità 1.0
+Il bigramma ('doesn', '’') 	con probabilità 1.0
+Il bigramma ('Thank', 'you') 	con probabilità 1.0
+Il bigramma ('New', 'York') 	con probabilità 1.0
+Il bigramma ('radical', 'left') 	con probabilità 0.8571428571428571
+Il bigramma ('again', '.') 	con probabilità 0.8333333333333334
+Il bigramma ('true', '.') 	con probabilità 0.8333333333333334
+Il bigramma ('close', '.') 	con probabilità 0.8333333333333334
+Il bigramma ('Who', 'would') 	con probabilità 0.8333333333333334
+Il bigramma ('said', ',') 	con probabilità 0.8125
+Il bigramma ('votes', '.') 	con probabilità 0.75
+Il bigramma ('matter', 'of') 	con probabilità 0.75
+Il bigramma ('target', ',') 	con probabilità 0.75
+Segue una lista dei venti bigrammi con probabilità condizionata massima nel secondo testo:
+Il bigramma ('able', 'to') 	con probabilità 1.0
+Il bigramma ('billion', 'dollars') 	con probabilità 1.0
+Il bigramma ('want', 'to') 	con probabilità 1.0
+Il bigramma ('Thank', 'you') 	con probabilità 1.0
+Il bigramma ('too', 'many') 	con probabilità 1.0
+Il bigramma ('going', 'to') 	con probabilità 0.96
+Il bigramma ('United', 'States') 	con probabilità 0.9473684210526315
+Il bigramma ('around', 'the') 	con probabilità 0.8571428571428571
+Il bigramma ('law', 'enforcement') 	con probabilità 0.8
+Il bigramma ('directly', 'to') 	con probabilità 0.8
+Il bigramma ('good', 'for') 	con probabilità 0.8
+Il bigramma ('now', '.') 	con probabilità 0.75
+Il bigramma ('across', 'the') 	con probabilità 0.75
+Il bigramma ('secure', ',') 	con probabilità 0.75
+Il bigramma ('taxes', 'on') 	con probabilità 0.75
+Il bigramma ('Jobs', 'in') 	con probabilità 0.75
+Il bigramma ('tell', 'you') 	con probabilità 0.75
+Il bigramma ('If', 'you') 	con probabilità 0.7142857142857143
+Il bigramma ('should', 'be') 	con probabilità 0.6666666666666666
+Il bigramma ('It', '’') 	con probabilità 0.6666666666666666
+
+Segue una lista dei venti bigrammi con probabilità congiunta massima nel primo testo:
+Il bigramma ('’', 's') 	con probabilità 0.013132368303238322
+Il bigramma (',', 'and') 	con probabilità 0.009252350395463363
+Il bigramma ('.', 'We') 	con probabilità 0.005820026861662438
+Il bigramma ('.', 'And') 	con probabilità 0.005521563945679749
+Il bigramma ('’', 're') 	con probabilità 0.004924638113714371
+Il bigramma ('.', 'They') 	con probabilità 0.004476943739740337
+Il bigramma ('’', 't') 	con probabilità 0.004476943739740337
+Il bigramma (',', 'they') 	con probabilità 0.003432323533800925
+Il bigramma (',', '“') 	con probabilità 0.0029846291598268917
+Il bigramma ('they', '’') 	con probabilità 0.0029846291598268917
+Il bigramma ('.', 'I') 	con probabilità 0.002835397701835547
+Il bigramma ('.', 'It') 	con probabilità 0.002835397701835547
+Il bigramma ('.', 'You') 	con probabilità 0.0026861662438442025
+Il bigramma ('it', '’') 	con probabilità 0.0026861662438442025
+Il bigramma ('.', 'Thank') 	con probabilità 0.0023877033278615132
+Il bigramma ('and', 'we') 	con probabilità 0.0023877033278615132
+Il bigramma ('Thank', 'you') 	con probabilità 0.0023877033278615132
+Il bigramma ('.', 'But') 	con probabilità 0.0022384718698701686
+Il bigramma ('it', '.') 	con probabilità 0.0022384718698701686
+Il bigramma ('you', '.') 	con probabilità 0.0022384718698701686
+Segue una lista dei venti bigrammi con probabilità congiunta massima nel secondo testo:
+Il bigramma ('’', 's') 	con probabilità 0.010240496508921644
+Il bigramma (',', 'and') 	con probabilità 0.006671838634600465
+Il bigramma ('’', 're') 	con probabilità 0.005585725368502715
+Il bigramma ('.', 'We') 	con probabilità 0.005430566330488751
+Il bigramma ('.', 'And') 	con probabilità 0.004965089216446858
+Il bigramma ('of', 'the') 	con probabilità 0.004344453064391001
+Il bigramma ('in', 'the') 	con probabilità 0.003878975950349108
+Il bigramma (',', 'but') 	con probabilità 0.003878975950349108
+Il bigramma ('we', '’') 	con probabilità 0.003878975950349108
+Il bigramma ('going', 'to') 	con probabilità 0.0037238169123351436
+Il bigramma ('’', 't') 	con probabilità 0.0037238169123351436
+Il bigramma (',', 'we') 	con probabilità 0.003413498836307215
+Il bigramma (',', 'the') 	con probabilità 0.0032583397982932504
+Il bigramma ('.', 'It') 	con probabilità 0.0032583397982932504
+Il bigramma ('’', 've') 	con probabilità 0.002948021722265322
+Il bigramma ('United', 'States') 	con probabilità 0.0027928626842513575
+Il bigramma ('the', 'United') 	con probabilità 0.0026377036462373934
+Il bigramma ('.', 'I') 	con probabilità 0.0026377036462373934
+Il bigramma ('I', '’') 	con probabilità 0.002482544608223429
+Il bigramma ('to', 'the') 	con probabilità 0.002482544608223429
+
+Segue una lista dei venti bigrammi con forza associativa massima nel primo testo:
+Il bigramma ('’', 's') 	con LMI 468.72816313917986
+Il bigramma (',', 'and') 	con LMI 175.80877910818037
+Il bigramma ('’', 're') 	con LMI 175.77306117719243
+Il bigramma ('’', 't') 	con LMI 159.79369197926584
+Il bigramma ('.', 'We') 	con LMI 148.37263604307196
+Il bigramma ('.', 'And') 	con LMI 143.1655891691004
+Il bigramma ('.', 'They') 	con LMI 115.56539089966024
+Il bigramma ('Thank', 'you') 	con LMI 106.65226515879137
+Il bigramma ('our', 'country') 	con LMI 81.78411514169964
+Il bigramma (',', '“') 	con LMI 75.76639509416847
+Il bigramma ('.', 'It') 	con LMI 69.72343851023452
+Il bigramma ('don', '’') 	con LMI 69.2439331910152
+Il bigramma ('would', 'have') 	con LMI 69.05589467922091
+Il bigramma ('they', '’') 	con LMI 67.63195907002645
+Il bigramma ('.', 'You') 	con LMI 67.01214023478676
+Il bigramma ('want', 'to') 	con LMI 66.44810108997746
+Il bigramma ('going', 'to') 	con LMI 65.4340684339609
+Il bigramma ('.', 'Thank') 	con LMI 63.12462561674917
+Il bigramma ('It', '’') 	con LMI 58.54334409810823
+Il bigramma ('and', 'we') 	con LMI 57.19122249085623
+Segue una lista dei venti bigrammi con forza associativa massima nel secondo testo:
+Il bigramma ('’', 's') 	con LMI 348.40906398553784
+Il bigramma ('’', 're') 	con LMI 190.0413076284752
+Il bigramma ('.', 'We') 	con LMI 154.88010834635966
+Il bigramma ('United', 'States') 	con LMI 151.3086683364977
+Il bigramma ('.', 'And') 	con LMI 141.60467048810025
+Il bigramma ('’', 't') 	con LMI 126.69420508565014
+Il bigramma ('going', 'to') 	con LMI 116.00447332202317
+Il bigramma (',', 'but') 	con LMI 105.90280320907787
+Il bigramma ('’', 've') 	con LMI 100.29957902613968
+Il bigramma (',', 'and') 	con LMI 99.10746977322658
+Il bigramma ('.', 'It') 	con LMI 92.92806500781579
+Il bigramma ('we', '’') 	con LMI 87.83476163847779
+Il bigramma ('the', 'United') 	con LMI 75.63479947885433
+Il bigramma ('of', 'the') 	con LMI 74.91283686731649
+Il bigramma ('ghost', 'guns') 	con LMI 72.0909760812686
+Il bigramma ('in', 'the') 	con LMI 67.0892776333584
+Il bigramma ('It', '’') 	con LMI 65.71547795653306
+Il bigramma ('to', 'help') 	con LMI 61.28976333164686
+Il bigramma ('We', '’') 	con LMI 60.847991858484605
+Il bigramma ('as', 'well') 	con LMI 58.656292386893206
+
+Nel primo testo, la frase di lunghezza 8 con probabilità massima è:
+ That ’ s not going to happen . 	con probabilità 1.549968341807644e-16
+Nel secondo testo, la frase di lunghezza 8 con probabilità massima è:
+ We ’ re going to accommodate them . 	con probabilità 2.2266738697099278e-17
+
+Nel primo testo, la frase di lunghezza 9 con probabilità massima è:
+ That ’ s what it ’ s about . 	con probabilità 4.0081499493651906e-19
+Nel secondo testo, la frase di lunghezza 9 con probabilità massima è:
+ It ’ s not hard to put together . 	con probabilità 8.191189864684534e-22
+
+Nel primo testo, la frase di lunghezza 10 con probabilità massima è:
+ That ’ s what they ’ re meant for . 	con probabilità 1.970201072976962e-21
+Nel secondo testo, la frase di lunghezza 10 con probabilità massima è:
+ What will the United States do for the Americas ? 	con probabilità 4.244906811785008e-24
+
+Nel primo testo, la frase di lunghezza 11 con probabilità massima è:
+ They ’ re not going to do it that way . 	con probabilità 5.339025185635552e-25
+Nel secondo testo, la frase di lunghezza 11 con probabilità massima è:
+ We ’ re helping Ukraine defend itself against Russian aggression . 	con probabilità 6.378773809029929e-27
+
+Nel primo testo, la frase di lunghezza 12 con probabilità massima è:
+ We are the majority and it ’ s not even close . 	con probabilità 9.620074724711994e-27
+Nel secondo testo, la frase di lunghezza 12 con probabilità massima è:
+ It ’ s also going to help schools and hospitals open . 	con probabilità 1.8903487645893795e-28
+
+Nel primo testo, la frase di lunghezza 13 con probabilità massima è:
+ That ’ s the one thing they want to stay away from . 	con probabilità 2.280771922582358e-31
+Nel secondo testo, la frase di lunghezza 13 con probabilità massima è:
+ In the United States , we ’ re doing that right now . 	con probabilità 1.3633543705756846e-29
+
+Nel primo testo, la frase di lunghezza 14 con probabilità massima è:
+ And they were right , except it was totally in play for me . 	con probabilità 2.2504000233454538e-35
+Nel secondo testo, la frase di lunghezza 14 con probabilità massima è:
+ What ’ s true in the United States is true in every country . 	con probabilità 2.566110447735235e-33
+
+Nel primo testo, la frase di lunghezza 15 con probabilità massima è: They said , “ Sir , we want steel , concrete , and rebar . 	con probabilità 1.4075934369102456e-36
+Nel secondo testo, la frase di lunghezza 15 con probabilità massima è:
+ That ’ s exactly what we said we would do , and we did . 	con probabilità 8.374346317962663e-37
+
+
+Segue una lista dei quindici nomi propri di persona più frequenti nel primo testo
+Il nome  Joe Biden con frequenza 6
+Il nome  Biden con frequenza 4
+Il nome  Texas con frequenza 2
+Il nome  Donald Trump con frequenza 2
+Il nome  Matt con frequenza 2
+Il nome  Ken con frequenza 2
+Il nome  Brandon con frequenza 2
+Il nome  Facebook con frequenza 2
+Il nome  Twitter con frequenza 2
+Il nome  Silicon Valley con frequenza 2
+Il nome  Louie con frequenza 2
+Il nome  Hunter Biden con frequenza 2
+Il nome  Joe con frequenza 2
+Il nome  Robb Elementary School con frequenza 1
+Il nome  Alexandria Rubio con frequenza 1
+Segue una lista dei quindici nomi propri di persona più frequenti nel secondo testo
+Il nome  Putin con frequenza 8
+Il nome  Look con frequenza 2
+Il nome  Global con frequenza 1
+Il nome  Forward Initiative con frequenza 1
+Il nome  Harris con frequenza 1
+Il nome  Trickle con frequenza 1
+Il nome  Third con frequenza 1
+Il nome  Safe con frequenza 1
+Il nome  Hello con frequenza 1
+Il nome  Doesn con frequenza 1
+Il nome  Ukraine con frequenza 1
+Il nome  Simply con frequenza 1
+Il nome  Lockheed Martin con frequenza 1
+Il nome  Kyiv con frequenza 1
+Il nome  Additionally con frequenza 1
+
+Segue una lista dei quindici nomi propri di luogo più frequenti nel primo testo
+Il nome  American con frequenza 8
+Il nome  America con frequenza 7
+Il nome  Texas con frequenza 6
+Il nome  Georgia con frequenza 6
+Il nome  United States con frequenza 4
+Il nome  Mexico con frequenza 3
+Il nome  Portland con frequenza 3
+Il nome  Great con frequenza 2
+Il nome  New York City con frequenza 2
+Il nome  Democrat con frequenza 2
+Il nome  Russia con frequenza 2
+Il nome  Uvalde con frequenza 1
+Il nome  Columbine con frequenza 1
+Il nome  Ukraine con frequenza 1
+Il nome  Iraq con frequenza 1
+Segue una lista dei quindici nomi propri di luogo più frequenti nel secondo testo
+Il nome  Ukraine con frequenza 23
+Il nome  Russia con frequenza 22
+Il nome  United States con frequenza 18
+Il nome  Russian con frequenza 13
+Il nome  American con frequenza 9
+Il nome  Ukrainian con frequenza 7
+Il nome  America con frequenza 4
+Il nome  Los Angeles con frequenza 3
+Il nome  Canada con frequenza 2
+Il nome  Chile con frequenza 2
+Il nome  European con frequenza 2
+Il nome  Japan con frequenza 2
+Il nome  Europe con frequenza 2
+Il nome  Poland con frequenza 2
+Il nome  Americas con frequenza 1
